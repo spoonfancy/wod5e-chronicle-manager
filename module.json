@@ -2,7 +2,7 @@
   "id": "wod5e-relationship-tracker",
   "title": "WoD5e Relationship Tracker",
   "description": "Per-player NPC relationship tracker for World of Darkness 5e.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "authors": [
     {
       "name": "Spoon Dupuis"
