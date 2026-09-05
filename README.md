@@ -1,0 +1,1 @@
+# WoD5e Relationship Tracker\n\nVersion 1.0.1 for Foundry VTT 14.365 / Stable 7. Keep module.json at repository root. Upload these files to GitHub and publish a release ZIP for manifest installation.\n
